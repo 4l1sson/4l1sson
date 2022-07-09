@@ -1,3 +1,6 @@
+
+- 👋 Ola, eu sou Alisson
+
 <div align="center">
   <a href="https://github.com/4l1sson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4l1sson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -5,9 +8,8 @@
 </div>
 
 
-- 👋 Ola, eu sou @4l1sson
 - 👀 Estou interessado em desenvolvimento web..
-- 🌱 Atualmente estou aprendendo html e css ...
+- 🌱 Atualmente estou aprendendo Javascript e aprofundando conhecimento em html e css ...
 - 📫 Me contate pelo twitter - @4llson ...
 
 <!---
