@@ -9,8 +9,8 @@
 
 
 - 👀 Estou interessado em desenvolvimento web..
-- 🌱 Atualmente estou aprendendo Javascript e aprofundando conhecimento em html e css ...
-- 📫 Me contate pelo twitter - @4llson ...
+- 🌱 Atualmente estou aprendendo python e aprofundando conhecimento em html e css,javascript ...
+
 
 <!---
 4l1sson/4l1sson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
